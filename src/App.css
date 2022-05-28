@@ -1,0 +1,8 @@
+.exercise-card {
+  margin-top: 8rem !important;
+  border: 2px solid black;
+}
+
+.hr-break {
+  border-top: 2px solid black;
+}
